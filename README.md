@@ -177,8 +177,8 @@ npm test
 ## 💰 Funding & Support
 
 Seeking vlayer Grant funding:
-- **$8,000 USD** for development, testing, and outreach
-- **$5,000** in vlayer compute credits for proof generation
+- **$10,000 USD** for development, testing, and outreach
+- **$10,000** in vlayer compute credits for proof generation
 
 Open to collaboration with vlayer community builders and ecosystem partners.
 
